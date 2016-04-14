@@ -1,0 +1,28 @@
+name: Foodline
+favicon: null
+layout_spectrum: 0.8971196543425322
+typography_spectrum: 0.9978267168626189
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.905214502941817
+  lightness: 0.2541298265568912
+  saturation: 0.03035652986727655
+  rhythmicContrast: 0.27558269212022424
+purpose: []
