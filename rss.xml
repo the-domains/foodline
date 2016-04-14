@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Foodline]]></title>
         <description><![CDATA[Foodline]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/foodline/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 14 Apr 2016 00:58:00 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 14 Apr 2016 01:02:30 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/foodline/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6ab38a2d-2b87-4fe3-b14d-9e3717bdfca7.jpg" alt="" title="">]]></description>
-            <link>undefined7f89df58-23c3-4ef6-904c-0dd9608e45e9/index.html</link>
+            <link>https://thegrid.ai/foodline/7f89df58-23c3-4ef6-904c-0dd9608e45e9/index.html</link>
             <guid isPermaLink="false">7f89df58-23c3-4ef6-904c-0dd9608e45e9</guid>
-            <pubDate>Thu, 14 Apr 2016 00:57:53 GMT</pubDate>
+            <pubDate>Thu, 14 Apr 2016 01:01:53 GMT</pubDate>
         </item>
     </channel>
 </rss>
