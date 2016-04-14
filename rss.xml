@@ -4,7 +4,7 @@
         <description><![CDATA[Foodline]]></description>
         <link>https://thegrid.ai/foodline/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 14 Apr 2016 01:02:30 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Apr 2016 01:07:06 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/foodline/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/foodline/7f89df58-23c3-4ef6-904c-0dd9608e45e9/index.html</link>
             <guid isPermaLink="false">7f89df58-23c3-4ef6-904c-0dd9608e45e9</guid>
             <pubDate>Thu, 14 Apr 2016 01:01:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Longganisa: Colonialism and the adaptation of cured meats for the Filipino palette</p>]]></description>
+            <link>https://thegrid.ai/foodline/longganisa-colonialism-and-the-adaptation-of-cured-meats-fo/index.html</link>
+            <guid isPermaLink="false">18fcd812-67f3-44eb-b298-54043d05be25</guid>
+            <pubDate>Thu, 14 Apr 2016 01:06:45 GMT</pubDate>
         </item>
     </channel>
 </rss>
